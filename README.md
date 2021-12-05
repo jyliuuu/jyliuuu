@@ -4,7 +4,10 @@
 Creative Works / Coding <br>
 
 **17, trying to master the art of code. <br>**
-And a student: 'software developer' at age 16 currently living in the Netherlands. 
+/ a student: 'software developer' in the Netherlands. <br>
+/ creative video-editor <br>
+/ / aiming for having the ability to create creative & awesome web pages
+
 
 **With a lot of interests on:**<br>
 -> front-end animations & design<br>
