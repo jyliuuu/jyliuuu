@@ -22,11 +22,13 @@ As of right now I've learned about:<br>
 -> CSS + webkit animations + bootstrap<br>
 -> PHP<br>
 -> Laravel 8 (basics)<br>
+-> PHP Composer Libraries<br>
+-> JavaScript (click events basics)<br>
 -> Git<br>
 
 I'm currently learning:<br>
 -> Laravel 8<br>
--> CSS webkit animations<br>
+-> JavaScript<br>
 -> Bootstrap x + grid<br>
 
 <!--
