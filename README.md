@@ -22,7 +22,6 @@ As of right now I've learned about:<br>
 -> CSS + webkit animations + bootstrap<br>
 -> PHP<br>
 -> Laravel 8 (basics)<br>
--> PHP Composer Libraries<br>
 -> JavaScript (click events basics)<br>
 -> Git<br>
 
