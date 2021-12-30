@@ -18,11 +18,11 @@ Creative Works / Coding <br>
 -> 2D animations/typography<br>
 
 As of right now I've learned about:<br>
--> HTML<br>
--> CSS + webkit animations + bootstrap<br>
+-> HTML // CSS<br>
+-> C# executables<br>
 -> PHP<br>
 -> Laravel 8 (basics)<br>
--> JavaScript (click events basics)<br>
+-> JavaScript cursor styling
 -> Git<br>
 
 I'm currently learning:<br>
