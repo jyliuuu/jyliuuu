@@ -3,7 +3,7 @@
 **I'm jyliu!** <br>
 Creative Works / Coding <br>
 
-**17, trying to master the art of code. <br>**
+**18, trying to master the art of code. <br>**
 / a student: 'software developer' in the Netherlands. <br>
 / creative video-editor <br>
 / / aiming for having the ability to create creative & awesome web pages
